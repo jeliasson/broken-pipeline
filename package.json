@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"Dummy build...\" && exit 0",
-    "dummy": "echo \"Dummy to trigger run 2\" && exit 0"
+    "dummy": "echo \"Dummy to trigger run 3\" && exit 0"
   },
   "author": "",
   "license": "ISC",
