@@ -9,7 +9,6 @@ on:
       - "renovate/**"
 
     paths:
-      - ".github/workflows/renovate-bot-npm.yml"
       - "package.json"
       - "package-lock.json"
 

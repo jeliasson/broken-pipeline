@@ -9,7 +9,6 @@ on:
       - "renovate/**"
 
     paths:
-      - ".github/workflows/renovate-bot-docker.yml"
       - "Dockerfile"
 
 jobs:
