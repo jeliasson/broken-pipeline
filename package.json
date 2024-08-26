@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "wait-on": "^7.0.0"
+    "wait-on": "^8.0.0"
   },
   "dependencies": {
     "nodemon": "^3.0.0"
