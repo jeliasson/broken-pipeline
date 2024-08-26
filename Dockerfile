@@ -1,3 +1,3 @@
-FROM nginx:1.26.2
+FROM nginx:1.25.0
 
 ENV BAZ=baz
