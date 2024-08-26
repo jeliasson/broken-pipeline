@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Dummy build...\" && exit 0"
+    "build": "echo \"Dummy build...\" && exit 0",
+    "dummy": "echo \"Dummy to trigger run 1\" && exit 0"
   },
   "author": "",
   "license": "ISC",
