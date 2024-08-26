@@ -1,0 +1,18 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": ["github>sydnod/renovate-config"],
+    "packageRules": [
+        {
+            "managers": ["github-actions", "terraform"],
+            "enabled": true
+        },
+        {
+            "managers": ["dockerfile"],
+            "enabled": true
+        },
+        {
+            "managers": ["composer", "npm"],
+            "enabled": true
+        }
+    ]
+}
